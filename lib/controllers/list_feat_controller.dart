@@ -24,7 +24,7 @@ class ListFeatController extends GetxController{
 
       if (response.statusCode == 200) {
         featModel.value = premierLeagueModelFromJson(response.body);
-        Get.snackbar("Berhasil!", "Data film berhasil dimuat");
+        Get.snackbar("Berhasil!", "Data team berhasil dimuat");
       } else {
         Get.snackbar("Gagal!", "Gagal memuat data dari server (Kode: ${response.statusCode})");
       }
