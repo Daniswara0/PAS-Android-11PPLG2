@@ -1,1 +1,5 @@
-# PAS-Android-11PPLG2
+# Penilaian Akhir Semester AndroidDev 11 PPLG 2
+
+* **Nama**: Daniswara Choirun Nesa Arifin
+* **Kelas**: 11 PPLG 2
+* **Absen**: 07
